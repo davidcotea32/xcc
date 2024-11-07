@@ -22,10 +22,4 @@
         # . . . . 
         # . . . . 
         . # # # .
-        `</field></block></next></block></next></block></next></block></statement><next><block type="device_print_message" id="8=U-)Mz0.mxw_auEzM|r"><value name="text"><shadow type="text" id="$@%b2CG:nERCTPu507r~"><field name="TEXT">Screen Erased</field></shadow></value><next><block type="device_clear_display" id="?Lw1Fc;alO)]9w7@Uz~E"></block></next></block></next></block></next></block></next></block></statement></block><block type="device_show_leds" id="Wf3bJh.dDu1*fAVIkFuu" disabled-reasons="ORPHANED_BLOCK,MANUALLY_DISABLED" x="88" y="473"><field name="LEDS">`
-        # . . . # 
-        . # . # . 
-        . . # . . 
-        . # . # . 
-        # . . . #
-        `</field></block></xml>
+        `</field></block></next></block></next></block></next></block></statement><next><block type="device_print_message" id="8=U-)Mz0.mxw_auEzM|r"><value name="text"><shadow type="text" id="$@%b2CG:nERCTPu507r~"><field name="TEXT">Screen Erased</field></shadow></value><next><block type="device_clear_display" id="?Lw1Fc;alO)]9w7@Uz~E"></block></next></block></next></block></next></block></next></block></statement></block></xml>
