@@ -1,0 +1,25 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="xRRgvHNlG#rZ^u`HECiY" x="20" y="20"><statement name="HANDLER"><block type="device_print_message" id="KMs66JxTG9VHa%FEZq=Q"><value name="text"><shadow type="text" id="fzdf|2N_fdn}5]uZu1AE"><field name="TEXT">True or False</field></shadow></value></block></statement></block><block type="device_button_event" id="iSYjV;5wp1GlfJ,2c$#i" x="353" y="20"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_print_message" id="xRT1JS[#}*I;5*eG5z4D"><value name="text"><shadow type="text" id="4aEm(H[T=07s4?DzLM)}"><field name="TEXT"></field></shadow><block type="logic_random" id="P6|oEN0$3Y{/%UWzgk$~"></block></value></block></statement></block><block type="device_button_event" id="DOr}OGxKG]db6C3L1@s2" x="794" y="20"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_stop_animation" id="R`C=YqgbN^yRco]wj*nD"><next><block type="device_print_message" id="=3b2un={ZWpJh?tgq{?h"><value name="text"><shadow type="text" id="~a|T1$4UG,AG$B/edBB}"><field name="TEXT">Erasing screen,Please Wait!</field></shadow></value><next><block type="controls_repeat_ext" id="Z)Ybs*3J0BuGQ?4EfTs#"><value name="TIMES"><shadow type="math_whole_number" id="jUk9EAC5v*O7n|%OZDbh"><field name="NUM">19</field></shadow></value><statement name="DO"><block type="device_show_leds" id="1i==[0}@DzK4=S`T8~Ct"><field name="LEDS">`
+        . # # # . 
+        # . . . . 
+        # . . . . 
+        # . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="}*9OpGZ-%!p@+0,P1pJM"><field name="LEDS">`
+        . # # # . 
+        . . . . # 
+        . . . . # 
+        . . . . # 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="_l@wh@aS:cf)rMi)+,D;"><field name="LEDS">`
+        . . . . . 
+        . . . . # 
+        . . . . # 
+        . . . . # 
+        . # # # .
+        `</field><next><block type="device_show_leds" id="5RdE]W_k,04cAqSHv5yK"><field name="LEDS">`
+        . . . . . 
+        # . . . . 
+        # . . . . 
+        # . . . . 
+        . # # # .
+        `</field></block></next></block></next></block></next></block></statement><next><block type="device_print_message" id="7hdd!Av|2r*nk=tAX.^B"><value name="text"><shadow type="text" id="gYVx*)oA58?@;S^e{E#:"><field name="TEXT">Screen Erased</field></shadow></value><next><block type="device_clear_display" id="SIpI^@NL2$r/-t2eAwWL"></block></next></block></next></block></next></block></next></block></statement></block></xml>
