@@ -37,4 +37,4 @@ input.onButtonPressed(Button.B, function () {
     basic.showString("Screen Erased")
     basic.clearScreen()
 })
-basic.showString("Lucky or Not?")
+basic.showString("True or False")
